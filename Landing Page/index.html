@@ -1,0 +1,85 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <link rel="icon" type="image/svg+xml" href="assets/logo.svg" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <!-- <meta name="description" content="Are you in search of a reliable partner to elevate your business? Welcome to Mythvendix - your ultimate destination for cutting-edge marketing and development services. Our expert team crafts tailored strategies to boost your brand visibility, drive organic traffic, and maximize conversions. From SEO-optimized content to captivating web and app development, we've got you covered. Choose Mythvendix today and take your business to new heights."> -->
+    <meta name="theme-color" content="#000000" />
+    <title>JurisTech</title>
+    <script type="module" crossorigin src="/assets/index-d1090da1.js"></script>
+    <link rel="stylesheet" href="/assets/index-66440abf.css">
+    <!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-5JH0CTW8XS"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-5JH0CTW8XS');
+</script>
+<style>
+
+  #chatbotIcon {
+      position: fixed;
+      bottom: 20px;
+      right: 20px;
+      z-index: 999;
+      cursor: pointer;
+  }
+
+  #chatbotContainer {
+      position: fixed;
+      bottom: 20px;
+      right: 20px;
+      width: 480px;
+      height: 480px;
+      background: white;
+      border: 5px solid #000;
+      display: none;
+      z-index: 500;
+
+  }
+      
+  #chatbotContainer::-webkit-scrollbar {
+  width: 5px;
+}
+
+#chatbotContainer::-webkit-scrollbar-track {
+  border-radius: 100vh;
+  background: #1f2937;
+}
+#chatbotContainer::-webkit-scrollbar-thumb {
+  background: linear-gradient(
+    rgb(134, 239, 172),
+    rgb(59, 130, 246),
+    rgb(147, 51, 234)
+  );
+}
+</style>
+
+  </head>
+  <body>
+    <div id="root"></div>
+    <div id="chatbotIcon">
+      <img src="assets/chatbot.png" alt="Chatbot Icon" width="50" height="50" id="chatbotToggle">
+  </div>
+  <div id="chatbotContainer">
+      <iframe src="https://lawbotpro.com" id="chatbotIframe"  width="480" height="480" frameborder="0"></iframe>
+  </div>
+
+  <script>
+    var chatbotContainer = document.getElementById("chatbotContainer");
+    var chatbotToggle = document.getElementById("chatbotToggle");
+  
+    chatbotToggle.addEventListener("click", function () {
+        if (chatbotContainer.style.display === "block") {
+            chatbotContainer.style.display = "none";
+        } else {
+            chatbotContainer.style.display = "block";
+        }
+    });
+  </script>
+    
+  </body>
+</html>
