@@ -1,4 +1,4 @@
-# Blockchain Based E-Vault
+# For Running Blockchain Based E-Vault
 
 Submission for the E-Suraksha hackathon at CU
 
@@ -15,11 +15,8 @@ Submission for the E-Suraksha hackathon at CU
       - [Tests for the contract](#tests-for-the-contract)
 
 ## Team members
-- [Ankush Singh](github.com/ankushKun)
-- [Ashutosh Mittal](github.com/Aashu1412)
-- [Prayrit](github.com/Prayrit9)
 - Parth Tiwari
-- Abhijeet Singh
+- Divyanshu Sah
 
 ## Tech Stack
 
