@@ -1,3 +1,23 @@
+## Idea Description:The legal field, like other industries, has experienced notable technological advancements in recent times. Our company's cutting edge JurisTech platform is leading the way, in these innovations by providing a comprehensive and intelligent Automated Case Management system that meets the requirements of professionals and stakeholders. This system incorporates technologies each playing a distinct role in improving the legal process.
+
+# For Running Landing Page simply load it in VS Code and hit the Live Server button 
+
+### Here are the Screenshots of the product and how it will look :
+<img width="1440" alt="Screenshot 2024-02-04 at 12 53 49 AM" src="https://github.com/c1pher1005/PRODUCTATHON-AI-EDITION/assets/114827938/9361fdc0-de18-4cb1-9b87-3ee8c83fe762">
+             ### this is the landing page 
+
+<img width="1440" alt="Screenshot 2024-02-04 at 12 54 04 AM" src="https://github.com/c1pher1005/PRODUCTATHON-AI-EDITION/assets/114827938/698a7aca-5bd4-4b90-8023-4c59b23193cb">
+
+   ### this is the Role Based Login Window which will be using the Ethereum and polygon to perform login task
+
+
+
+
+
+
+
+
+
 # Login With the Help of Blockchain
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
