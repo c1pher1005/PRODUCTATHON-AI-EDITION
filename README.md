@@ -2,6 +2,11 @@
 
 # For Running Landing Page simply load it in VS Code and hit the Live Server button 
 
+
+  # replit url : https://replit.com/@parthtiwari1005/PRODUCTATHON-AI-EDITION
+
+
+
 ## Here are the Screenshots of the product and how it will look :
 <img width="1440" alt="Screenshot 2024-02-04 at 12 53 49 AM" src="https://github.com/c1pher1005/PRODUCTATHON-AI-EDITION/assets/114827938/9361fdc0-de18-4cb1-9b87-3ee8c83fe762">
 
@@ -14,26 +19,26 @@
 
 
 
-   ### this is the Role Based Login Window which will be using the Ethereum and polygon to perform login task
+   ### This is the Role Based Login Window which will be using the Ethereum and polygon to perform the login task
 
 
 <img width="1440" alt="Screenshot 2024-02-04 at 12 54 10 AM" src="https://github.com/c1pher1005/PRODUCTATHON-AI-EDITION/assets/114827938/02de80e9-1ca0-4303-8cf0-a4af9192c6a6">
 
 
-  ### With the help of following wallets you can easily login according to your role 
+  ### With the help of the following wallets you can easily log in according to your role 
 
 
 ![WhatsApp Image 2024-02-04 at 01 15 56](https://github.com/c1pher1005/PRODUCTATHON-AI-EDITION/assets/114827938/78d3998e-3bde-44b0-a310-2e0487de62ec)
 
 
-this is the admin panel for judges where he can manage the cases and etc with case summarizer functionality 
+this is the admin panel for judges where he can manage the cases etc with case summarizer functionality 
 
 
 
 ![WhatsApp Image 2024-02-04 at 00 56 14 (1)](https://github.com/c1pher1005/PRODUCTATHON-AI-EDITION/assets/114827938/3cc68ee2-6beb-449e-a4b4-4d57767149c1)
 
 
-### across the website there will be a chatbot support wihich will be answering all your doubts easily as shown above 
+### Across the website there will be chatbot support that will be answering all your doubts easily as shown above 
 
 
 
@@ -41,11 +46,18 @@ this is the admin panel for judges where he can manage the cases and etc with ca
 
 
 
-### this is the case Summerizer which is based on LLM powered chat bot , it uses OpenAI Api key, Streamlit and LangChain
+### This is the case of Summerizer which is based on LLM powered chatbot , it uses OpenAI Api key, Streamlight, and LangChain
 
 
 
- #now for installing it on local host follow below given steps 
+
+![WhatsApp Image 2024-02-04 at 02 23 02 (1)](https://github.com/c1pher1005/PRODUCTATHON-AI-EDITION/assets/114827938/f4e69adf-e510-47a9-bf82-cbb2a81218de)
+
+
+### This is the E-vault for legal records which uses the Arweave Blockchain because it can store a large amount of data and its gas fees are also very very low.
+
+
+ # Now, to install it on the local host follow the below steps 
 
 
 
